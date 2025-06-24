@@ -8,7 +8,7 @@ It allows users to ask questions based on uploaded PDFs.
 1. Create the environment:
 
     * conda env create -f environment.yaml
-    * conda activate test-plan-generator
+    * conda activate queryyourpdf
 
 
 2. Create .env file with your API key
